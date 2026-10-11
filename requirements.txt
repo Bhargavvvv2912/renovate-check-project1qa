@@ -10,7 +10,7 @@ flask-testing==0.8.1
 flask_testing
 click==7.1.2
 coverage==5.5
-iniconfig==1.1.1
+iniconfig==2.3.1
 itsdangerous==1.1.0
 markupsafe==1.1.1
 packaging==20.9
