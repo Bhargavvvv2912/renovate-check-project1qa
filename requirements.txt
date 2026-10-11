@@ -9,7 +9,7 @@ pytest-cov==2.11.1
 flask-testing==0.8.1
 flask_testing
 click==7.1.2
-coverage==5.5
+coverage==7.16.2
 iniconfig==1.1.1
 itsdangerous==1.1.0
 markupsafe==1.1.1
